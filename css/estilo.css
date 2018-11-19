@@ -9,4 +9,12 @@
     background-color:#DDD;
   
   }
+
+  @media (max-width: 455px){
+      .video{
+          width: 95%;
+          height: 100%;
+          
+      }
+  }
   
